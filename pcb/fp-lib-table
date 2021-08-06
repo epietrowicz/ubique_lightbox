@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "lightbox_library")(type "KiCad")(uri "${KIPRJMOD}/lightbox_library.pretty")(options "")(descr ""))
+)
